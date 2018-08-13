@@ -1,5 +1,7 @@
 ## My Laravel Starter Pack
 
+I do write for this repo on [medium](https://medium.com/@Ihwan_ID/laravel-package-yang-bakal-membantu-project-kamu-f6e05c4f337e) 
+
 - [Laravel Collective](https://laravelcollective.com)
 
 - [Laravel DataTables](http://yajrabox.com)
